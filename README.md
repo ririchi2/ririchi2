@@ -2,7 +2,7 @@
 <!--- - 👀 I’m interested in ... --->
 - 🌱 I’m currently learning web development
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me ririchi2@gmail.com
+- 📫 How to reach me richipineda2@gmail.com
 
 <!---
 ririchi2/ririchi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
