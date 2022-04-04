@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ririchi2
+- 👋 Hi, I’m @ririchi2  💻Full-Stack Web Developer
 <!--- - 👀 I’m interested in ... --->
 - 🌱 I’m currently learning web development
 <!--- - 💞️ I’m looking to collaborate on ... --->
