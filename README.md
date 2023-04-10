@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ririchi2  💻Full-Stack Web Developer
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently working in web development
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me richipineda2@gmail.com
 
