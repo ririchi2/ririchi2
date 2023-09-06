@@ -3,7 +3,8 @@
 - 🌱 I’m currently working in web development
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me richipineda2@gmail.com
-- 🌍 richipineda.dev
+  
+- 🌍 [richipineda.dev](https://richipineda.dev)
 
 <!---
 ririchi2/ririchi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
